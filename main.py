@@ -61,7 +61,7 @@ class LogApp:
 
     def poisk(self):
         if not self.vse_zapisi:
-            print("Нет данных!")
+            print("Нет данных")
             return
 
         print("Введите условия (Enter для пропуска):")
@@ -134,7 +134,7 @@ class LogApp:
                       ["created", "files_processed", "total_records",
                        "correct_records", "incorrect_records", "anomalies_count"]}
         save_csv(csv_dannye, "full_report.csv")
-        print("Отчет сохранен в папку data/reports!")
+        print("Отчет сохранен в папку data/reports")
 
     def run(self):
         setup_logging()
