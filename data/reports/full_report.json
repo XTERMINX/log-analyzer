@@ -1,0 +1,73 @@
+{
+    "created": "2026-11-10 17:46:35",
+    "files_processed": 1,
+    "total_records": 40,
+    "correct_records": 40,
+    "incorrect_records": 1,
+    "levels": {
+        "INFO": 8,
+        "DEBUG": 1,
+        "WARNING": 2,
+        "ERROR": 18,
+        "CRITICAL": 11
+    },
+    "errors_by_source": {
+        "server_db": 28,
+        "server_web": 1
+    },
+    "top_ips": {},
+    "numpy_stats": {
+        "mean": 40.0,
+        "min": 40.0,
+        "max": 40.0,
+        "median": 40.0,
+        "std": 0.0
+    },
+    "anomalies_count": 4,
+    "anomalies": [
+        {
+            "type": "error_burst",
+            "time": "2026-11-10 17:46:35",
+            "source": "server",
+            "severity": "WARNING",
+            "reason": "Всплеск ошибок у server (28 за 10 мин)",
+            "records": [
+                "Database connection timeout",
+                "Database connection timeout",
+                "Database connection timeout"
+            ]
+        },
+        {
+            "type": "repeating_message",
+            "time": "2026-11-10 17:46:35",
+            "source": "server",
+            "severity": "INFO",
+            "reason": "Сообщение 'db_Database connection timeout...' повторилось 17 раз",
+            "records": [
+                "2026-11-10 10:05:00",
+                "2026-11-10 10:05:10",
+                "2026-11-10 10:05:20"
+            ]
+        },
+        {
+            "type": "repeating_message",
+            "time": "2026-11-10 17:46:35",
+            "source": "server",
+            "severity": "INFO",
+            "reason": "Сообщение 'db_Disk almost full...' повторилось 11 раз",
+            "records": [
+                "2026-11-10 10:08:00",
+                "2026-11-10 10:08:05",
+                "2026-11-10 10:08:10"
+            ]
+        },
+        {
+            "type": "source_activity_jump",
+            "time": "2026-11-10 17:46:35",
+            "source": "server",
+            "severity": "WARNING",
+            "reason": "Активность server выросла с 5.0 до 29 событий в час",
+            "records": []
+        }
+    ]
+}

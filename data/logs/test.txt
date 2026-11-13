@@ -1,0 +1,130 @@
+2026-11-10 15:35:42 | INFO | server_auth | User logged in
+2026-11-10 15:36:42 | WARNING | server_web | Cache updated
+2026-11-10 15:37:42 | INFO | server_auth | Page loaded
+2026-11-10 15:38:42 | INFO | server_db | Cache updated
+2026-11-10 15:39:42 | ERROR | server_auth | API call
+2026-11-10 15:40:42 | INFO | server_auth | API call
+2026-11-10 15:41:42 | WARNING | server_web | Page loaded
+2026-11-10 15:42:42 | DEBUG | server_web | API call
+2026-11-10 15:43:42 | ERROR | server_web | User logged in
+2026-11-10 15:44:42 | DEBUG | server_web | API call
+2026-11-10 15:45:42 | DEBUG | server_auth | API call
+2026-11-10 15:46:42 | DEBUG | server_web | Page loaded
+2026-11-10 15:47:42 | ERROR | server_db | Page loaded
+2026-11-10 15:48:42 | INFO | server_db | Page loaded
+2026-11-10 15:49:42 | DEBUG | server_web | Page loaded
+2026-11-10 15:50:42 | DEBUG | server_db | API call
+2026-11-10 15:51:42 | DEBUG | server_db | API call
+2026-11-10 15:52:42 | WARNING | server_db | Page loaded
+2026-11-10 15:53:42 | ERROR | server_web | Cache updated
+2026-11-10 15:54:42 | DEBUG | server_db | User logged in
+2026-11-10 15:55:42 | DEBUG | server_web | Page loaded
+2026-11-10 15:56:42 | ERROR | server_auth | Page loaded
+2026-11-10 15:57:42 | ERROR | server_web | Cache updated
+2026-11-10 15:58:42 | WARNING | server_auth | API call
+2026-11-10 15:59:42 | WARNING | server_web | Cache updated
+2026-11-10 16:00:42 | ERROR | server_web | Cache updated
+2026-11-10 16:01:42 | WARNING | server_auth | Page loaded
+2026-11-10 16:02:42 | ERROR | server_db | Cache updated
+2026-11-10 16:03:42 | ERROR | server_web | Cache updated
+2026-11-10 16:04:42 | WARNING | server_db | Cache updated
+2026-11-10 16:05:42 | WARNING | server_db | API call
+2026-11-10 16:06:42 | DEBUG | server_web | API call
+2026-11-10 16:07:42 | DEBUG | server_web | User logged in
+2026-11-10 16:08:42 | WARNING | server_db | Page loaded
+2026-11-10 16:09:42 | WARNING | server_auth | Page loaded
+2026-11-10 16:10:42 | INFO | server_db | Page loaded
+2026-11-10 16:11:42 | DEBUG | server_web | API call
+2026-11-10 16:12:42 | WARNING | server_auth | User logged in
+2026-11-10 16:13:42 | WARNING | server_db | Cache updated
+2026-11-10 16:14:42 | INFO | server_auth | Page loaded
+2026-11-10 16:15:42 | WARNING | server_auth | Cache updated
+2026-11-10 16:16:42 | INFO | server_auth | Cache updated
+2026-11-10 16:17:42 | ERROR | server_auth | Page loaded
+2026-11-10 16:18:42 | ERROR | server_web | API call
+2026-11-10 16:19:42 | WARNING | server_web | Page loaded
+2026-11-10 16:20:42 | ERROR | server_db | Cache updated
+2026-11-10 16:21:42 | DEBUG | server_web | User logged in
+2026-11-10 16:22:42 | DEBUG | server_web | User logged in
+2026-11-10 16:23:42 | INFO | server_web | Cache updated
+2026-11-10 16:24:42 | ERROR | server_db | API call
+2026-11-10 16:35:42 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:35:47 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:35:52 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:35:57 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:02 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:07 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:12 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:17 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:22 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:27 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:32 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:37 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:42 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:47 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:52 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:36:57 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:02 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:07 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:12 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:17 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:22 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:27 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:32 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:37 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:42 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:47 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:52 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:37:57 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:02 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:07 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:12 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:17 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:22 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:27 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:32 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:37 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:42 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:47 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:52 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:38:57 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:39:02 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:39:07 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:39:12 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:39:17 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:39:22 | WARNING | server_auth | Suspicious login attempt
+2026-11-10 16:05:42 | ERROR | server_db | Database connection timeout
+2026-11-10 16:05:52 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:02 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:12 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:22 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:32 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:42 | ERROR | server_db | Database connection timeout
+2026-11-10 16:06:52 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:02 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:12 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:22 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:32 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:42 | ERROR | server_db | Database connection timeout
+2026-11-10 16:07:52 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:02 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:12 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:22 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:32 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:42 | ERROR | server_db | Database connection timeout
+2026-11-10 16:08:52 | ERROR | server_db | Database connection timeout
+2026-11-10 16:20:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:21:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:22:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:23:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:24:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:25:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:26:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:27:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:28:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:29:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:30:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:31:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:32:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:33:42 | CRITICAL | server_web | Disk almost full
+2026-11-10 16:34:42 | CRITICAL | server_web | Disk almost full

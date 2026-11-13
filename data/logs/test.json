@@ -1,0 +1,130 @@
+{"time": "2026-11-10 15:35:42", "level": "INFO", "source": "server_auth", "message": "User logged in", "ip": "192.168.1.10", "code": "J-0"}
+{"time": "2026-11-10 15:36:42", "level": "WARNING", "source": "server_web", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-1"}
+{"time": "2026-11-10 15:37:42", "level": "INFO", "source": "server_auth", "message": "Page loaded", "ip": "192.168.1.10", "code": "J-2"}
+{"time": "2026-11-10 15:38:42", "level": "INFO", "source": "server_db", "message": "Cache updated", "ip": "10.0.0.5", "code": "J-3"}
+{"time": "2026-11-10 15:39:42", "level": "ERROR", "source": "server_auth", "message": "API call", "ip": "192.168.1.10", "code": "J-4"}
+{"time": "2026-11-10 15:40:42", "level": "INFO", "source": "server_auth", "message": "API call", "ip": "8.8.8.8", "code": "J-5"}
+{"time": "2026-11-10 15:41:42", "level": "WARNING", "source": "server_web", "message": "Page loaded", "ip": "10.0.0.5", "code": "J-6"}
+{"time": "2026-11-10 15:42:42", "level": "DEBUG", "source": "server_web", "message": "API call", "ip": "192.168.1.10", "code": "J-7"}
+{"time": "2026-11-10 15:43:42", "level": "ERROR", "source": "server_web", "message": "User logged in", "ip": "192.168.1.10", "code": "J-8"}
+{"time": "2026-11-10 15:44:42", "level": "DEBUG", "source": "server_web", "message": "API call", "ip": "172.16.0.2", "code": "J-9"}
+{"time": "2026-11-10 15:45:42", "level": "DEBUG", "source": "server_auth", "message": "API call", "ip": "172.16.0.2", "code": "J-10"}
+{"time": "2026-11-10 15:46:42", "level": "DEBUG", "source": "server_web", "message": "Page loaded", "ip": "192.168.1.10", "code": "J-11"}
+{"time": "2026-11-10 15:47:42", "level": "ERROR", "source": "server_db", "message": "Page loaded", "ip": "192.168.1.10", "code": "J-12"}
+{"time": "2026-11-10 15:48:42", "level": "INFO", "source": "server_db", "message": "Page loaded", "ip": "172.16.0.2", "code": "J-13"}
+{"time": "2026-11-10 15:49:42", "level": "DEBUG", "source": "server_web", "message": "Page loaded", "ip": "8.8.8.8", "code": "J-14"}
+{"time": "2026-11-10 15:50:42", "level": "DEBUG", "source": "server_db", "message": "API call", "ip": "192.168.1.10", "code": "J-15"}
+{"time": "2026-11-10 15:51:42", "level": "DEBUG", "source": "server_db", "message": "API call", "ip": "10.0.0.5", "code": "J-16"}
+{"time": "2026-11-10 15:52:42", "level": "WARNING", "source": "server_db", "message": "Page loaded", "ip": "192.168.1.10", "code": "J-17"}
+{"time": "2026-11-10 15:53:42", "level": "ERROR", "source": "server_web", "message": "Cache updated", "ip": "192.168.1.10", "code": "J-18"}
+{"time": "2026-11-10 15:54:42", "level": "DEBUG", "source": "server_db", "message": "User logged in", "ip": "10.0.0.5", "code": "J-19"}
+{"time": "2026-11-10 15:55:42", "level": "DEBUG", "source": "server_web", "message": "Page loaded", "ip": "192.168.1.10", "code": "J-20"}
+{"time": "2026-11-10 15:56:42", "level": "ERROR", "source": "server_auth", "message": "Page loaded", "ip": "172.16.0.2", "code": "J-21"}
+{"time": "2026-11-10 15:57:42", "level": "ERROR", "source": "server_web", "message": "Cache updated", "ip": "10.0.0.5", "code": "J-22"}
+{"time": "2026-11-10 15:58:42", "level": "WARNING", "source": "server_auth", "message": "API call", "ip": "172.16.0.2", "code": "J-23"}
+{"time": "2026-11-10 15:59:42", "level": "WARNING", "source": "server_web", "message": "Cache updated", "ip": "192.168.1.10", "code": "J-24"}
+{"time": "2026-11-10 16:00:42", "level": "ERROR", "source": "server_web", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-25"}
+{"time": "2026-11-10 16:01:42", "level": "WARNING", "source": "server_auth", "message": "Page loaded", "ip": "8.8.8.8", "code": "J-26"}
+{"time": "2026-11-10 16:02:42", "level": "ERROR", "source": "server_db", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-27"}
+{"time": "2026-11-10 16:03:42", "level": "ERROR", "source": "server_web", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-28"}
+{"time": "2026-11-10 16:04:42", "level": "WARNING", "source": "server_db", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-29"}
+{"time": "2026-11-10 16:05:42", "level": "WARNING", "source": "server_db", "message": "API call", "ip": "10.0.0.5", "code": "J-30"}
+{"time": "2026-11-10 16:06:42", "level": "DEBUG", "source": "server_web", "message": "API call", "ip": "8.8.8.8", "code": "J-31"}
+{"time": "2026-11-10 16:07:42", "level": "DEBUG", "source": "server_web", "message": "User logged in", "ip": "192.168.1.10", "code": "J-32"}
+{"time": "2026-11-10 16:08:42", "level": "WARNING", "source": "server_db", "message": "Page loaded", "ip": "172.16.0.2", "code": "J-33"}
+{"time": "2026-11-10 16:09:42", "level": "WARNING", "source": "server_auth", "message": "Page loaded", "ip": "8.8.8.8", "code": "J-34"}
+{"time": "2026-11-10 16:10:42", "level": "INFO", "source": "server_db", "message": "Page loaded", "ip": "8.8.8.8", "code": "J-35"}
+{"time": "2026-11-10 16:11:42", "level": "DEBUG", "source": "server_web", "message": "API call", "ip": "192.168.1.10", "code": "J-36"}
+{"time": "2026-11-10 16:12:42", "level": "WARNING", "source": "server_auth", "message": "User logged in", "ip": "8.8.8.8", "code": "J-37"}
+{"time": "2026-11-10 16:13:42", "level": "WARNING", "source": "server_db", "message": "Cache updated", "ip": "192.168.1.10", "code": "J-38"}
+{"time": "2026-11-10 16:14:42", "level": "INFO", "source": "server_auth", "message": "Page loaded", "ip": "172.16.0.2", "code": "J-39"}
+{"time": "2026-11-10 16:15:42", "level": "WARNING", "source": "server_auth", "message": "Cache updated", "ip": "8.8.8.8", "code": "J-40"}
+{"time": "2026-11-10 16:16:42", "level": "INFO", "source": "server_auth", "message": "Cache updated", "ip": "10.0.0.5", "code": "J-41"}
+{"time": "2026-11-10 16:17:42", "level": "ERROR", "source": "server_auth", "message": "Page loaded", "ip": "8.8.8.8", "code": "J-42"}
+{"time": "2026-11-10 16:18:42", "level": "ERROR", "source": "server_web", "message": "API call", "ip": "10.0.0.5", "code": "J-43"}
+{"time": "2026-11-10 16:19:42", "level": "WARNING", "source": "server_web", "message": "Page loaded", "ip": "172.16.0.2", "code": "J-44"}
+{"time": "2026-11-10 16:20:42", "level": "ERROR", "source": "server_db", "message": "Cache updated", "ip": "172.16.0.2", "code": "J-45"}
+{"time": "2026-11-10 16:21:42", "level": "DEBUG", "source": "server_web", "message": "User logged in", "ip": "8.8.8.8", "code": "J-46"}
+{"time": "2026-11-10 16:22:42", "level": "DEBUG", "source": "server_web", "message": "User logged in", "ip": "8.8.8.8", "code": "J-47"}
+{"time": "2026-11-10 16:23:42", "level": "INFO", "source": "server_web", "message": "Cache updated", "ip": "8.8.8.8", "code": "J-48"}
+{"time": "2026-11-10 16:24:42", "level": "ERROR", "source": "server_db", "message": "API call", "ip": "10.0.0.5", "code": "J-49"}
+{"time": "2026-11-10 16:35:42", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-0"}
+{"time": "2026-11-10 16:35:47", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-1"}
+{"time": "2026-11-10 16:35:52", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-2"}
+{"time": "2026-11-10 16:35:57", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-3"}
+{"time": "2026-11-10 16:36:02", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-4"}
+{"time": "2026-11-10 16:36:07", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-5"}
+{"time": "2026-11-10 16:36:12", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-6"}
+{"time": "2026-11-10 16:36:17", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-7"}
+{"time": "2026-11-10 16:36:22", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-8"}
+{"time": "2026-11-10 16:36:27", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-9"}
+{"time": "2026-11-10 16:36:32", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-10"}
+{"time": "2026-11-10 16:36:37", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-11"}
+{"time": "2026-11-10 16:36:42", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-12"}
+{"time": "2026-11-10 16:36:47", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-13"}
+{"time": "2026-11-10 16:36:52", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-14"}
+{"time": "2026-11-10 16:36:57", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-15"}
+{"time": "2026-11-10 16:37:02", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-16"}
+{"time": "2026-11-10 16:37:07", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-17"}
+{"time": "2026-11-10 16:37:12", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-18"}
+{"time": "2026-11-10 16:37:17", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-19"}
+{"time": "2026-11-10 16:37:22", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-20"}
+{"time": "2026-11-10 16:37:27", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-21"}
+{"time": "2026-11-10 16:37:32", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-22"}
+{"time": "2026-11-10 16:37:37", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-23"}
+{"time": "2026-11-10 16:37:42", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-24"}
+{"time": "2026-11-10 16:37:47", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-25"}
+{"time": "2026-11-10 16:37:52", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-26"}
+{"time": "2026-11-10 16:37:57", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-27"}
+{"time": "2026-11-10 16:38:02", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-28"}
+{"time": "2026-11-10 16:38:07", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-29"}
+{"time": "2026-11-10 16:38:12", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-30"}
+{"time": "2026-11-10 16:38:17", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-31"}
+{"time": "2026-11-10 16:38:22", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-32"}
+{"time": "2026-11-10 16:38:27", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-33"}
+{"time": "2026-11-10 16:38:32", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-34"}
+{"time": "2026-11-10 16:38:37", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-35"}
+{"time": "2026-11-10 16:38:42", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-36"}
+{"time": "2026-11-10 16:38:47", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-37"}
+{"time": "2026-11-10 16:38:52", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-38"}
+{"time": "2026-11-10 16:38:57", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-39"}
+{"time": "2026-11-10 16:39:02", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-40"}
+{"time": "2026-11-10 16:39:07", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-41"}
+{"time": "2026-11-10 16:39:12", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-42"}
+{"time": "2026-11-10 16:39:17", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-43"}
+{"time": "2026-11-10 16:39:22", "level": "WARNING", "source": "server_auth", "message": "Suspicious login attempt", "ip": "192.168.1.99", "code": "W-44"}
+{"time": "2026-11-10 16:05:42", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-0"}
+{"time": "2026-11-10 16:05:52", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-1"}
+{"time": "2026-11-10 16:06:02", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-2"}
+{"time": "2026-11-10 16:06:12", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-3"}
+{"time": "2026-11-10 16:06:22", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-4"}
+{"time": "2026-11-10 16:06:32", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-5"}
+{"time": "2026-11-10 16:06:42", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-6"}
+{"time": "2026-11-10 16:06:52", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-7"}
+{"time": "2026-11-10 16:07:02", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-8"}
+{"time": "2026-11-10 16:07:12", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-9"}
+{"time": "2026-11-10 16:07:22", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-10"}
+{"time": "2026-11-10 16:07:32", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-11"}
+{"time": "2026-11-10 16:07:42", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-12"}
+{"time": "2026-11-10 16:07:52", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-13"}
+{"time": "2026-11-10 16:08:02", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-14"}
+{"time": "2026-11-10 16:08:12", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-15"}
+{"time": "2026-11-10 16:08:22", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-16"}
+{"time": "2026-11-10 16:08:32", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-17"}
+{"time": "2026-11-10 16:08:42", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-18"}
+{"time": "2026-11-10 16:08:52", "level": "ERROR", "source": "server_db", "message": "Database connection timeout", "ip": "10.0.0.5", "code": "E-19"}
+{"time": "2026-11-10 16:20:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-0"}
+{"time": "2026-11-10 16:21:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-1"}
+{"time": "2026-11-10 16:22:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-2"}
+{"time": "2026-11-10 16:23:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-3"}
+{"time": "2026-11-10 16:24:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-4"}
+{"time": "2026-11-10 16:25:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-5"}
+{"time": "2026-11-10 16:26:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-6"}
+{"time": "2026-11-10 16:27:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-7"}
+{"time": "2026-11-10 16:28:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-8"}
+{"time": "2026-11-10 16:29:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-9"}
+{"time": "2026-11-10 16:30:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-10"}
+{"time": "2026-11-10 16:31:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-11"}
+{"time": "2026-11-10 16:32:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-12"}
+{"time": "2026-11-10 16:33:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-13"}
+{"time": "2026-11-10 16:34:42", "level": "CRITICAL", "source": "server_web", "message": "Disk almost full", "ip": "172.16.0.2", "code": "R-14"}

@@ -1,0 +1,41 @@
+2026-11-10 10:00:00 | INFO | server_web | User logged in
+2026-11-10 10:01:00 | DEBUG | server_auth | Token validated
+2026-11-10 10:02:00 | INFO | server_db | Cache updated
+2026-11-10 10:03:00 | WARNING | server_web | High memory usage
+2026-11-10 10:04:00 | INFO | server_web | API request processed
+2026-11-10 10:05:00 | ERROR | server_db | Database connection timeout
+2026-11-10 10:05:10 | ERROR | server_db | Database connection timeout
+2026-11-10 10:05:20 | ERROR | server_db | Database connection timeout
+2026-11-10 10:05:30 | ERROR | server_db | Database connection timeout
+2026-11-10 10:05:40 | ERROR | server_db | Database connection timeout
+2026-11-10 10:05:50 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:00 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:10 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:20 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:30 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:40 | ERROR | server_db | Database connection timeout
+2026-11-10 10:06:50 | ERROR | server_db | Database connection timeout
+2026-11-10 10:07:00 | ERROR | server_db | Database connection timeout
+2026-11-10 10:07:10 | ERROR | server_db | Database connection timeout
+2026-11-10 10:07:20 | ERROR | server_db | Database connection timeout
+2026-11-10 10:07:30 | ERROR | server_db | Database connection timeout
+2026-11-10 10:07:40 | ERROR | server_db | Database connection timeout
+2026-11-10 10:08:00 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:05 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:10 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:15 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:20 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:25 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:30 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:35 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:40 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:45 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:08:50 | CRITICAL | server_db | Disk almost full
+2026-11-10 10:09:00 | INFO | server_web | User logged out
+2026-11-10 10:10:00 | INFO | server_web | Page loaded
+2026-11-10 10:11:00 | WARNING | server_cache | Cache miss
+2026-11-10 10:12:00 | INFO | server_auth | User logged in
+2026-11-10 10:13:00 | INFO | server_web | API request processed
+битая строка без разделителей
+2026-11-10 10:14:00 | INFO | server_web | User logged out
+2026-11-10 10:15:00 | ERROR | server_web | File not found
